@@ -10,7 +10,7 @@ namespace WindowsFormsApplication1
     {
         public int GetNumber()
         {
-            return 3;
+            return 5;
         }
     }
 
